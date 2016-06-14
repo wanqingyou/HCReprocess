@@ -1,7 +1,6 @@
 package com.liaison.reprocess;
 
 public class RunTest {
-
 	public static void main(String[] args) throws Exception {
 		String url = "at4p-lvdxphub10.liaison.prod:7878";
 		String user = "consoleuser";
